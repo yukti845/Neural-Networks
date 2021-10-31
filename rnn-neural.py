@@ -1,7 +1,3 @@
-from keras.models import Sequential
-from keras.layers import LSTM, Dense, Dropout, Masking, Embedding
-
-model = Sequential()
 
 # Embedding layer
 model.add(
