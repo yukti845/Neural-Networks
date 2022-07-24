@@ -1,3 +1,3 @@
 # Neural-Networks
 
-![Screenshot (1968)](https://user-images.githubusercontent.com/65419430/180663766-6bbb705f-82aa-49c0-bfc4-800529bfd8a9.png)
+![Screenshot (1968) - 1](https://user-images.githubusercontent.com/65419430/180663828-57190395-7219-4911-bcb2-ef4d91a6b299.png)
